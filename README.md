@@ -4,7 +4,7 @@
 
 ## 2. Descrierea functionalitatii hardware
 
-Sistemul este proiectat in jurul microcontrolerului nRF52840, punand accent pe consum redus si conectivitate stabila.
+Sistemul este proiectat in jurul microcontrolerului nRF52840, punand accent pe conectivitate stabila si conservarea energiei, utilizand o tehnologie de afisare E-Paper care permite vizibilitate excelenta in lumina solara cu un consum de curent extrem de mic in starea statica.
 
 ### 2.1. Nucleul Sistemului (MCU)
 * **Microcontroler:** Nordic nRF52840.
