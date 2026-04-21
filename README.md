@@ -60,11 +60,11 @@ Configuratia pinilor a fost aleasa pentru a optimiza rutarea pe PCB si pentru a 
 ---
 
 ![PCB 2D](Images/pcb-2d.png)
-![PCB 3D](Images/pcb-3d-top.png)
-![PCB 3D](Images/pcb-3d-bottom.png)
-![PCB 3D](Images/pcb-3d-side.png)
-![Carcasa](Images/product-side.png)
-![Carcasa](Images/product-bottompng)
+![PCB 3D-top](Images/pcb-3d-top.png)
+![PCB 3D-bottom](Images/pcb-3d-bottom.png)
+![PCB 3D-side](Images/pcb-3d-side.png)
+![Carcasa-side](Images/product-side.png)
+![Carcasa-bottom](Images/product-bottom.png)
 
 
 
